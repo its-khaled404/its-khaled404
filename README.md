@@ -8,13 +8,14 @@
 
 🎓 CSE Student
 💻 Learning **C, C++**
-📚 Currently Learning
+## 📚 Currently Learning
+
 - CS50x
 - Data Structures
 - Algorithms
 - Object Oriented Programming
 - Python
-
+---
 
 ```cpp id="91a6dz"
 while(!expert){

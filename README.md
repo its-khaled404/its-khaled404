@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Khaled
 
-<!--
-**its-khaled404/its-khaled404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Learning+C+and+C%2B%2B;Future+Software+Developer;Love+Coding+at+Night&center=true&width=500&height=45">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 CSE Student
+💻 Learning **C, C++**
+📚 Currently studying **Data Structures & Algorithms**
+
+```cpp id="91a6dz"
+while(!expert){
+    learn();
+    code();
+    build();
+}
+```
+
+---
+
+## 🛠 Skills
+
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge\&logo=cplusplus)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge\&logo=git)
+![Arduino](https://img.shields.io/badge/Arduino-Hardware-green?style=for-the-badge\&logo=arduino)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: https://github.com/its-khaled404
+* LinkedIn: https://www.linkedin.com/in/tahajibul-islam/
+* Twitter/X: https://x.com/Tahajibul_Islam
+
+---
+
+⭐ From [its-khaled404 ·](https://github.com/its-khaled404)

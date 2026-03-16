@@ -47,12 +47,6 @@ while(!expert){
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/its-khaled404/its-khaled404/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Connect With Me
 
 * GitHub: https://github.com/its-khaled404

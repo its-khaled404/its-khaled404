@@ -77,14 +77,6 @@ Completed and worked on several CS50 assignments including:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=its-khaled404&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-khaled404&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
